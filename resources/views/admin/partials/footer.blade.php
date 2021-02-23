@@ -1,0 +1,1 @@
+<footer class="footer">Todos los derecho reservados &copy; - Pizzería Maesma {{ date('Y') }} | Realizado por <a href="https://www.otterscompany.com">Otters Company</a></footer>
